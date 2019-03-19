@@ -1,1 +1,1 @@
-## Images for a short display tutorial
+## Images for a small tutorial
